@@ -9,7 +9,7 @@ url: "https://gdace829.github.io"
 # then add in the baseurl here, like this: "/repository-name"
 #
 # NB! Without this *nothing* will work, because it's used in every path :)
-baseurl: /personal-jekyll-theme
+baseurl: /gdace829.github.io
 # Google tracking id
 google-tracking-id: "UA-XXXXXXXX-X"
 #############
@@ -18,7 +18,7 @@ google-tracking-id: "UA-XXXXXXXX-X"
 lang: "en"
 author: "Jinsong Shu"
 title: "{Jinsong Shu}"
-description: "Blog and website of John Smith, blogging mainly for tech. Opinions expressed are mine."
+description: "zhejiang univercity"
 keywords: "smith, jones, personal, jekyll, theme"
 favicon: "/img/favicon.ico"
 ################
