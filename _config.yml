@@ -27,7 +27,7 @@ favicon: "/img/favicon.ico"
 black-favicon: "/img/black-lab-glass.ico"
 background-img: "../img/intro-bg.jpg"
 ##############################
-# Dynamic Text on the Header #
+# Dynamic Text on the Header # 头部动态文字
 ##############################
 dynamic-typing: True
 shuffle: True # Shuffle the lines.
@@ -39,6 +39,7 @@ delete-delay: 5000
 lines: # You can add HTML Tags in the Text
   - text: "The lower you fall, the higher you'll fly."
   - text: "Where’s your will to be weird?"
+  - text: "百尺竿头，更进一步"
 me-img: "/img/jetpacktocat.png"
 # To use github profile pic uncomment the following line and replace 'user_name'
 # with your github user name.
@@ -135,7 +136,7 @@ err-404-img: "/img/labtocat.png"
 
 # NB! Tread carefully if you want to change the variables below this point!
 
-# Sections shown in the index page
+# Sections shown in the index page 选择是一些板块在index页面展示
 pages_list:
   About: "about"
   Blog: "latest-post"
