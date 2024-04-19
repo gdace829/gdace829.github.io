@@ -1,5 +1,5 @@
 # Site settings
-
+# 在这里的修改要重启服务docker Note that every time you update the site configuration (\_config.yml), you will need to cancel the serving (Ctr + C) and serve the website again.
 # NB! Set your site's url, otherwise stuff will break :)
 
 url: "https://gdace829.github.io"
@@ -11,13 +11,13 @@ url: "https://gdace829.github.io"
 # # NB! Without this *nothing* will work, because it's used in every path :)
 # baseurl: /gdace829.github.io
 # Google tracking id
-google-tracking-id: "UA-XXXXXXXX-X"
+google-tracking-id: false
 #############
 # HTML Head #
 #############
 lang: "en"
 author: "Jinsong Shu"
-title: "Jinsong Shu blog1111"
+title: "Jinsong Shu blog"
 description: "Zhejiang univercity"
 keywords: "smith, jones, personal, jekyll, theme"
 favicon: "/img/favicon.ico"
@@ -39,7 +39,7 @@ delete-delay: 5000
 lines: # You can add HTML Tags in the Text
   - text: "The lower you fall, the higher you'll fly."
   - text: "Where’s your will to be weird?"
-  - text: "百尺竿头，更进一步"
+  - text: "百尺竿头，更进一步！"
 me-img: "/img/jetpacktocat.png"
 # To use github profile pic uncomment the following line and replace 'user_name'
 # with your github user name.

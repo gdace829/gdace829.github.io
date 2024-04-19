@@ -1,8 +1,8 @@
 # utility scripts
 
-new_post {{TITLE}}
+ruby bin/new_post.rb helloworld
 
-- Creates a new post under `_posts`
+- Creates a new post under `_posts` 
 
 generate_categories.rb
 
