@@ -70,7 +70,7 @@ icon-96p: "/img/web-app/icon-96p.png"
 icon-144p: "/img/web-app/icon-144p.png"
 icon-192p: "/img/web-app/icon-192p.png"
 ########
-# Blog #
+# Blog 页面最多包涵8个博客 #
 ########
 post-preview-words: 96
 paginate: 8
@@ -87,7 +87,7 @@ vkontakte-share: True
 disqus-shortname: "personal-jekyll-theme"
 syntax-highlight: True
 ############
-# Timeline #
+# Timeline 事件讲述自己的事件配上图片 #
 ############
 events:
   - image: "/img/timeline/spidertocat.png"
