@@ -1,6 +1,6 @@
 # utility scripts
 
-ruby bin/new_post.rb helloworld
+ruby bin/new_post.rb xxx
 
 - Creates a new post under `_posts` 
 
